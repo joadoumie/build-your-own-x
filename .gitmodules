@@ -1,0 +1,3 @@
+[submodule "projects/codecrafters-claude-code-rust"]
+	path = projects/codecrafters-claude-code-rust
+	url = https://github.com/joadoumie/codecrafters-claude-code-rust.git
