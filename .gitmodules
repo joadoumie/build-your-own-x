@@ -1,3 +1,6 @@
 [submodule "projects/codecrafters-claude-code-rust"]
 	path = projects/codecrafters-claude-code-rust
 	url = https://github.com/joadoumie/codecrafters-claude-code-rust.git
+[submodule "projects/codecrafters-redis-rust"]
+	path = projects/codecrafters-redis-rust
+	url = https://github.com/joadoumie/codecrafters-redis-rust.git
